@@ -18,3 +18,7 @@ assim o seu pedido com os dados pertinentes à compra.
 - Spring Boot
 - JPA/Hibernate
 - Maven
+
+## ---- ATUALIZAÇÕES ----
+A fim de por em prática o conhecimento adquirido em outros cursos (BDD e testes em API com Rest Assured), resolvi prosseguir com essa aplicação e ir atualizando novas features e escrever testes automatizados dessa API.
+Tudo estará no pacote "test".
